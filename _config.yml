@@ -1,2 +1,10 @@
-name: Abstract Factory Blog
-highlighter: "rouge"
+# Site settings
+title: Abstract Factory Ltd.
+email: abstractfactory.io
+description: Workflow automation software
+version: "2.0.0"
+baseurl: ""
+url: "http://abstractfactory.io"
+
+collections:
+    - chapters
